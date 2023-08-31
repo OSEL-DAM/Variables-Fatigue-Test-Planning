@@ -1,5 +1,5 @@
 ## Introduction
-This regulatory science tool provides a step-by-step method to plan a robust variables fatigue test, based on the simulated data strategy [Falk and Meeker, submitted, https://arxiv.org/abs/2308.05003]. This method is intended to be used in conjunction with FDA recognized standards ASTM F3211-17.  
+This regulatory science tool provides a step-by-step method to plan a robust variables fatigue test, based on the simulated data strategy [Falk and Meeker, submitted, https://arxiv.org/abs/2308.05003]. This method is intended to be used in conjunction with FDA recognized standard ASTM F3211-17.  
 
 ## Requirements
 Using the program requires that users first understand how it relates to device testing.  Falk and Meeker should be read and understood before beginning any test planning activities. The information in the publication is intended to inform the reader about the objectives of demonstrating test planning and the options available.  One such option, embodied in ASTM F3211-17, is the variables approach, also known as the “fatigue-to-fracture” approach.  Section 7 of Falk and Meeker utilizes the software provided on GitHub in a step-by-step variable test planning example, implemented in accordance with ASTM F3211-17.
